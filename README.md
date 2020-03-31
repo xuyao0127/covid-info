@@ -23,3 +23,6 @@
 
 Capt.Tim自从麻省每日公布官方数据之后一直在收录整理。这个表格涵盖了几乎所有的公布数据和一些Capt.Tim另作的分析，大家可以参考/分享。中文版今天仓促上线，没有顾及到排版/校对。欢迎大家挑错，谢谢！
 
+## 心态调整
+
+[疫情下三种心态或引发失眠？8个应对方法让你睡个好觉！](https://mp.weixin.qq.com/s?__biz=MzA3NTI4NTcwNw==&mid=2656482797&idx=1&sn=4b7f3079628d45ef70691c9f25dfea03&chksm=84d0c049b3a7495f9b2446ed5d57e5146b074f0384202713873ea03c1f964290d546aef9944d&mpshare=1&scene=1&srcid=0330uWRza9Ytxq3zq6umi2jL&sharer_sharetime=1585524738943&sharer_shareid=0181e122538394321b0ea79be27f034b&key=d3c910d82594c3d0d4c7cdf696e049dab4a56c829ea522ff27e11565817fcd8b66f1a3ed7bd52b13f03d7438bd1596a0a2fd8aadbb721f9efe0118b44e6f32c2fd51d16350af520b1a21c88fad38821f&ascene=1&uin=Mjg0NTg0NjcwMg%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AXYJU%2BLWIxCMGpGd2xLv%2BPM%3D&pass_ticket=E2kBsFVXjp19%2BRgVY1tep1HPRY6%2Fvn8LO66XjRik9DCeKsuMq%2BNOqWJWsT0ZlOYm)
