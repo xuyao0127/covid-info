@@ -14,13 +14,10 @@
 
 [出国及海外中国公民自愿登记](https://ocnr.mfa.gov.cn/expa/)
 
-## 麻省疫情数据统计
+## 麻省疫情数据统计 （群成员Capt.Tim整理）
 
-群成员Capt.Tim整理
-
->[海外英文版](https://bit.ly/MACOVID19STATS)
->
->[国内中文版](https://dwz.cn/dmIaDFDe)
+[海外英文版](https://bit.ly/MACOVID19STATS)
+[国内中文版](https://dwz.cn/dmIaDFDe)
 
 Capt.Tim自从麻省每日公布官方数据之后一直在收录整理。这个表格涵盖了几乎所有的公布数据和一些Capt.Tim另作的分析，大家可以参考/分享。中文版今天仓促上线，没有顾及到排版/校对。欢迎大家挑错，谢谢！
 
