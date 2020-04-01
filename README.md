@@ -8,7 +8,7 @@
 
 ## 防控手册
 
-[张文宏主编防控手册](./文件/张文宏主编防控手册.pdf)
+[张文宏主编防控手册](https://mp.weixin.qq.com/s?__biz=MjM5NTA5NzYyMA==&mid=2654122415&idx=2&sn=a003bfaf2926c75fe6e54952a9bd1706&chksm=bd3bacd48a4c25c23353bd9115c8323e4cbe40fd0496c4f04855970e3cf5fe6ae268d70edf12&mpshare=1&scene=1&srcid=0401qmTt83F1hrzENE58bd61&sharer_sharetime=1585706124225&sharer_shareid=ee1ea2b98e9992c95153b40b45d7b31b&key=ef157e112398252ce8060aa91af6b0208afc26039388e66ddc43d7b0f5d7f57f5da6eb36f5236b2323e578916f798db00eafe764f6e04a3cff906e795ccbb17a387384ba8bc5a7bc08957bcb6750d165&ascene=1&uin=Mjg0NTg0NjcwMg%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_CN&exportkey=AVlEQCDSWihEvMzkPRY5y0o%3D&pass_ticket=E2kBsFVXjp19%2BRgVY1tep1HPRY6%2Fvn8LO66XjRik9DCeKsuMq%2BNOqWJWsT0ZlOYm)
 
 ## 调查问卷
 
